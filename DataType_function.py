@@ -14,3 +14,5 @@ boo=False
 boo1=True
 print(type(boo))
 print(type(boo1))
+a=None
+print(type(a))
