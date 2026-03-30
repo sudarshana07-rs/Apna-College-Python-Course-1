@@ -11,7 +11,7 @@ print('25+09+2007')
 name = 'Sudarshana.R.S'
 print(name)
 age = 18
-college = 'Bangalore'
+college = 'Sapthagiri NPS University'
 print(name,age,college)
 print('sudarshan07')
 num= '34'
@@ -28,3 +28,5 @@ print(''' My age is ''', age1)
 print('Hello India')
 print("Nice to meet you")
 print("My name is Sudarshana.R.S \n", "I am 18 years")
+place="Bangalore"
+print("I am pursuing my degree in ",college, ",", place)
