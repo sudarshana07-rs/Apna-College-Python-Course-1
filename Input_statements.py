@@ -1,5 +1,4 @@
-# MY FIRST PYTHON PROGRAM (ANPNA COLLEGE 25/03/2026)
-print("Hello World")
+# Input Statements 30/03/2026
 print('Sudarshan.R.S')
 print (f'Sapthagiri NPS University')
 M = 'Data Analyst'
