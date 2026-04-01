@@ -11,7 +11,7 @@ username=input("Enter the username: ")
 password=int(input("Enter the password: "))
 username1='suresh71'
 password1=3091971
-print(username==username1 or username==username1)
+print(username==username1 or password==password1)
 
 #Logical "not"
 username="suresh71"
