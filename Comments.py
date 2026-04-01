@@ -1,3 +1,4 @@
+# Comments 01/04/2026
 print("Comment Line")
 # Comments are the lines which are not executed by the compiler
 """ Comments will improve the readability 
