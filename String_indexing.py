@@ -9,3 +9,8 @@ str='Sudarshana.R.S'
 index= str[10]
 print(index)
 print(str[4])
+
+# Add a string is not allowed
+s='Apna College'
+s[4]="@" #Not allowed we cannot add a character
+print(s) 
