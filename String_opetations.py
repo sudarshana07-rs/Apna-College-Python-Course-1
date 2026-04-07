@@ -19,4 +19,4 @@ length2=len(s2)
 length3=len(f)
 print(length1)
 print(length2)
-print(length3)
+print(length3) # The space/ white space or any character will also be counted in len fuction
