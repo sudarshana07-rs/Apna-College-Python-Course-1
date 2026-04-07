@@ -11,3 +11,8 @@ print(len(str2))
 print(str2[5:len(str)])
 print(str2[5:12])
 print(str2[0:4])
+
+s1='Sudarshana'
+print(len(s1))
+print(s1[:10])
+print(s1[5:])
