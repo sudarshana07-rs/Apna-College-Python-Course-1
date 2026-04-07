@@ -10,3 +10,7 @@ str5= '''Sudarshana said "Work Hard In Silence Let Success make noise."'''
 # Escape Sequence: Next Line \n
 str="My name is Sudarshana.R.S. \nI am 18 years old."
 print(str)
+
+# Escape Sequence: Tab space \t
+strr="My name is Sudarsahan.R.S. \tI am 18 years old."
+print(strr)
